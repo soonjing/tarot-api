@@ -15,12 +15,12 @@ Provides information parsed from AE Waite's The Pictorial Key to the Tarot in Op
 
 Get all cards with word "peace" in meaning (reversed or upright):
 
-https://rws-cards-api.herokuapp.com/api/v1/cards/search?meaning=peace (free dyno == super slow, sorry)
+https://soonjing.herokuapp.com/api/v1/cards/search?meaning=peace (free dyno == super slow, sorry)
 
 Get 10 random cards:
 
-https://rws-cards-api.herokuapp.com/api/v1/cards/random?n=10
+https://soonjing.herokuapp.com/api/v1/cards/random?n=10
 
 Get the Knight of Wands:
 
-https://rws-cards-api.herokuapp.com/api/v1/cards/wakn
+https://soonjing.herokuapp.com/api/v1/cards/wakn
